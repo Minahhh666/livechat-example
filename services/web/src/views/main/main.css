@@ -20,7 +20,7 @@ body {
 }
 
 .mainBody .sidebar {
-  background: #80858d;
+  background: red;
   height: auto;
   flex: 0 0 200px;
 }
